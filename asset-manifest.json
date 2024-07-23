@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pharmease/static/css/main.fc9b2184.css",
+    "main.js": "/Pharmease/static/js/main.dc771037.js",
+    "index.html": "/Pharmease/index.html",
+    "main.fc9b2184.css.map": "/Pharmease/static/css/main.fc9b2184.css.map",
+    "main.dc771037.js.map": "/Pharmease/static/js/main.dc771037.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc9b2184.css",
+    "static/js/main.dc771037.js"
+  ]
+}
